@@ -1,0 +1,2 @@
+# swagger-xss
+swaggerUI RXSS
